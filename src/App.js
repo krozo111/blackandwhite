@@ -1,11 +1,9 @@
+import Header from "./components/Header";
 
-function App() {
+export default function App() {
   return (
-    <header className="bg-black text-green-800 text-8xl">
-      Hello Mundo baboso
-
-    </header>
+    <div>
+      <Header />
+    </div>
   );
 }
-
-export default App;
