@@ -1,6 +1,6 @@
 import React from 'react';
 
-const Categories = ({ categories, filterItems }) => {
+const MenuCategories = ({ categories, filterItems }) => {
   return (
     <div className="btn-container">
       {categories.map((category, index) => {
@@ -19,4 +19,4 @@ const Categories = ({ categories, filterItems }) => {
   );
 };
 
-export default Categories;
+export default MenuCategories;
