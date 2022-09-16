@@ -1,6 +1,6 @@
-import Header from "./Components/Header";
-import React, { useState } from 'react';
-import ListMenu from './Components/ListMenu';
+import Header from "./components/Header";
+import React from 'react';
+import ListMenu from './components/ListMenu';
 
 //import items from './data';
 
