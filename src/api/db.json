@@ -1,11 +1,11 @@
 [
   {
     "id": 1,
-    "title": "buttermilk pancakes",
-    "category": "breakfast",
-    "price": 15.99,
-    "img": "./images/item-1.jpeg",
-    "desc": "I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed "
+    "title": "Arepa rellena",
+    "category": "SreetFood",
+    "price": 18.50,
+    "img": "https://cdn.nutritionstudies.org/wp-content/uploads/2020/11/arepa-rellena-con-jaca-mechada-1.jpg",
+    "desc": "White corn tortilla, cheese, corn, homemade sauces, quail egg and the filling of your choice"
   },
   {
     "id": 2,

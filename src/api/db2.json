@@ -1,0 +1,11 @@
+[
+
+  {
+    "id": 1,
+    "title": "Arepa rellena",
+    "category": "SreetFood",
+    "price": 18.50,
+    "img": "https://github.com/krozo111/blackandwhite/blob/main/public/images/arepa.jpeg",
+    "desc": "White corn tortilla, cheese, corn, homemade sauces, quail egg and the filling of your choice"
+  }
+]

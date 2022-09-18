@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import Menu from './Menu';
 import MenuCategories from './MenuCategories';
-import items from '../api/db.json';
+import items from '../api/db2.json';
 const allCategories = ['all', ...new Set(items.map((item) => item.category))];
 
 function ListMenu() {
